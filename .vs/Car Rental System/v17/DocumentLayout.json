@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|c:\\users\\arifz\\documents\\diploma\\sem 4\\event driven programming\\car rental system\\car rental system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|solutionrelative:car rental system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|c:\\users\\arifz\\documents\\diploma\\sem 4\\event driven programming\\car rental system\\car rental system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|solutionrelative:car rental system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\car rental system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|solutionrelative:car rental system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\car rental system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|solutionrelative:car rental system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\car rental system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|solutionrelative:car rental system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\car rental system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|solutionrelative:car rental system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\car rental system\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|solutionrelative:car rental system\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\car rental system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|solutionrelative:car rental system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\car rental system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|solutionrelative:car rental system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\car rental system\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EF1593-E567-4A19-B7A4-B32AAE01C539}|Car Rental System\\Car Rental System.csproj|solutionrelative:car rental system\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form4.cs",
+              "RelativeDocumentMoniker": "Car Rental System\\Form4.cs",
+              "ToolTip": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form4.cs",
+              "RelativeToolTip": "Car Rental System\\Form4.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:46:57.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form4.cs",
+              "RelativeDocumentMoniker": "Car Rental System\\Form4.cs",
+              "ToolTip": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form4.cs [Design]",
+              "RelativeToolTip": "Car Rental System\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:37:22.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Car Rental System\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form3.Designer.cs",
+              "RelativeToolTip": "Car Rental System\\Form3.Designer.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAuwBYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:56:25.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form3.cs",
+              "RelativeDocumentMoniker": "Car Rental System\\Form3.cs",
+              "ToolTip": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form3.cs",
+              "RelativeToolTip": "Car Rental System\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:56:19.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form3.cs",
+              "RelativeDocumentMoniker": "Car Rental System\\Form3.cs",
+              "ToolTip": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form3.cs [Design]",
+              "RelativeToolTip": "Car Rental System\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:48:57.828Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Car Rental System\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form2.Designer.cs",
+              "RelativeToolTip": "Car Rental System\\Form2.Designer.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAQwLMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:56:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form2.cs",
+              "RelativeDocumentMoniker": "Car Rental System\\Form2.cs",
+              "ToolTip": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form2.cs",
+              "RelativeToolTip": "Car Rental System\\Form2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:56:45.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form2.cs",
+              "RelativeDocumentMoniker": "Car Rental System\\Form2.cs",
+              "ToolTip": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form2.cs [Design]",
+              "RelativeToolTip": "Car Rental System\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:14:19.036Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form1.cs",
+              "RelativeDocumentMoniker": "Car Rental System\\Form1.cs",
+              "ToolTip": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form1.cs [Design]",
+              "RelativeToolTip": "Car Rental System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:46:11.469Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form1.cs",
+              "RelativeDocumentMoniker": "Car Rental System\\Form1.cs",
+              "ToolTip": "C:\\Users\\arifz\\Documents\\Diploma\\Sem 4\\Event Driven Programming\\Car Rental System\\Car Rental System\\Form1.cs",
+              "RelativeToolTip": "Car Rental System\\Form1.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:56:08.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
