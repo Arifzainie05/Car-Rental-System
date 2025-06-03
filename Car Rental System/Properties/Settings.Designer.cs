@@ -12,7 +12,7 @@ namespace Car_Rental_System.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.9.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.13.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -31,6 +31,17 @@ namespace Car_Rental_System.Properties {
         public string CarRentalConnectionString {
             get {
                 return ((string)(this["CarRentalConnectionString"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=""C:\USERS\IDRIS\DOCUMENTS\FTMK\SEM 4\EVENT-DRIVEN PROGRAMMING\CAR-RENTAL-SYSTEM\CAR RENTAL SYSTEM\BIN\DEBUG\CARRENTAL.MDF"";Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False")]
+        public string C__USERS_IDRIS_DOCUMENTS_FTMK_SEM_4_EVENT_DRIVEN_PROGRAMMING_CAR_RENTAL_SYSTEM_CAR_RENTAL_SYSTEM_BIN_DEBUG_CARRENTAL_MDFConnectionString {
+            get {
+                return ((string)(this["C__USERS_IDRIS_DOCUMENTS_FTMK_SEM_4_EVENT_DRIVEN_PROGRAMMING_CAR_RENTAL_SYSTEM_CA" +
+                    "R_RENTAL_SYSTEM_BIN_DEBUG_CARRENTAL_MDFConnectionString"]));
             }
         }
     }

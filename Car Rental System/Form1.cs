@@ -15,7 +15,7 @@ namespace Car_Rental_System
     {
         private string Username;
         private string Password;
-        private DatabaseConnection db = new DatabaseConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\arifz\Documents\Diploma\Sem 4\Event Driven Programming\Car Rental System\Car Rental System\CarRental.mdf;Integrated Security=True");
+        private DatabaseConnection db = new DatabaseConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\Idris\Documents\FTMK\SEM 4\Event-Driven Programming\Car-Rental-System\Car Rental System\bin\Debug\CarRental.mdf"";Integrated Security=True");
         public Form1()
         {
             InitializeComponent();
@@ -54,8 +54,11 @@ namespace Car_Rental_System
                         
                         if ( reader["Role"].ToString() == "Customer")
                         { 
-                            CustomerMain customerMain = new CustomerMain();
-                            customerMain.Show();
+                            //CustomerMain customerMain = new CustomerMain();
+                            //customerMain.Show();
+                            //this.Hide();
+                            Form2 form2 = new Form2();
+                            form2.Show();
                             this.Hide();
                         }
                         else if (reader["Role"].ToString() == "Admin")
@@ -77,6 +80,13 @@ namespace Car_Rental_System
                 Console.WriteLine("Error: " + ex.Message);
             }
             
+        }
+
+        private void registerBtn_Click(object sender, EventArgs e)
+        {
+            Form4 register = new Form4();
+            this.Hide();
+            register.Show();
         }
     }
 }

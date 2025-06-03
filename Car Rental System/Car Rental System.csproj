@@ -165,11 +165,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CarRental.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="CarRental_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>CarRental.mdf</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Resources\PROTON-Saga-FLX-5068_1.jpg" />
   </ItemGroup>

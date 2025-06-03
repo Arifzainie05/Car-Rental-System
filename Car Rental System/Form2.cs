@@ -17,6 +17,12 @@ namespace Car_Rental_System
             InitializeComponent();
         }
 
-        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(string.IsNullOrEmpty(comboBox1.Text) || string.IsNullOrEmpty(dateTimePicker2.Value.ToString()))
+            {
+                MessageBox.Show("Please enter all the requirements", "");
+            }
+        }
     }
 }
