@@ -16,5 +16,16 @@ namespace Car_Rental_System
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            vehicleManagement1.Show();
+            vehicleManagement1.BringToFront();
+        }
+
+        private void AdminMain_Load(object sender, EventArgs e)
+        {
+            vehicleManagement1.Hide();
+        }
     }
 }
