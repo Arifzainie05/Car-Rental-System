@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Car_Rental_System
+namespace Car_Rental_System.AdminUserControl
 {
-    public partial class Register : Form
+    public partial class Payments : UserControl
     {
-        public Register()
+        public Payments()
         {
             InitializeComponent();
         }

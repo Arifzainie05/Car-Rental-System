@@ -12,7 +12,7 @@ namespace Car_Rental_System
 {
     public partial class Form4 : Form
     {
-        private DatabaseConnection db = new DatabaseConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Idris\Documents\FTMK\SEM 4\Event-Driven Programming\Car-Rental-System\Car Rental System\CarRental.mdf;Integrated Security=True");
+        private DatabaseConnection db = new DatabaseConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\Idris\Documents\FTMK\SEM 4\Event-Driven Programming\Car-Rental-System\Car Rental System\bin\Debug\CarRental.mdf"";Integrated Security=True");
         public Form4()
         {
             InitializeComponent();

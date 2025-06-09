@@ -26,8 +26,9 @@ namespace Car_Rental_System.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\CarRental.mdf" +
-            ";Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Idris\\Documents\\FTMK" +
+            "\\SEM 4\\Event-Driven Programming\\Car-Rental-System\\Car Rental System\\bin\\Debug\\Ca" +
+            "rRental.mdf;Integrated Security=True")]
         public string CarRentalConnectionString {
             get {
                 return ((string)(this["CarRentalConnectionString"]));
@@ -42,6 +43,20 @@ namespace Car_Rental_System.Properties {
             get {
                 return ((string)(this["C__USERS_IDRIS_DOCUMENTS_FTMK_SEM_4_EVENT_DRIVEN_PROGRAMMING_CAR_RENTAL_SYSTEM_CA" +
                     "R_RENTAL_SYSTEM_BIN_DEBUG_CARRENTAL_MDFConnectionString"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=\"C:\\USERS\\IDRIS\\DOCUMENTS\\FTMK" +
+            "\\SEM 4\\EVENT-DRIVEN PROGRAMMING\\CAR-RENTAL-SYSTEM\\CAR RENTAL SYSTEM\\CARRENTAL.MD" +
+            "F\";Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertific" +
+            "ate=False")]
+        public string C__USERS_IDRIS_DOCUMENTS_FTMK_SEM_4_EVENT_DRIVEN_PROGRAMMING_CAR_RENTAL_SYSTEM_CAR_RENTAL_SYSTEM_CARRENTAL_MDFConnectionString {
+            get {
+                return ((string)(this["C__USERS_IDRIS_DOCUMENTS_FTMK_SEM_4_EVENT_DRIVEN_PROGRAMMING_CAR_RENTAL_SYSTEM_CA" +
+                    "R_RENTAL_SYSTEM_CARRENTAL_MDFConnectionString"]));
             }
         }
     }
